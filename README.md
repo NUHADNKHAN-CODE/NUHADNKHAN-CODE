@@ -11,8 +11,8 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=nuhadnkhan&label=Profile%20views&color=0e75b6&style=flat"
-    alt="nuhadnkhan"
+    src="https://komarev.com/ghpvc/?username=NUHADNKHAN-CODE&label=Profile%20views&color=0e75b6&style=flat"
+    alt="NUHADNKHAN-CODE"
   />
 </p>
 
@@ -20,7 +20,7 @@
 
 - 🔭 I’m founder of **Cyber Protect BD**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NUHADNKHAN](https://github.com/NUHADNKHAN)
+- 👨‍💻 All of my projects are available at [https://github.com/NUHADNKHAN-CODE](https://github.com/NUHADNKHAN-CODE)
 
 - 💬 Ask me about **Ethical Hacking, Cyber ​​Safety, Programming, Coding and developing.**
 
@@ -765,13 +765,13 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NUHADNKHAN&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NUHADNKHAN&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NUHADNKHAN&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=NUHADNKHAN-CODE&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NUHADNKHAN-CODE&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NUHADNKHAN-CODE&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NUHADNKHAN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NUHADNKHAN-CODE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NUHADNKHAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NUHADNKHAN-CODE&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
