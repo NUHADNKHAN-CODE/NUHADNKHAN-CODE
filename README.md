@@ -38,7 +38,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://fb.com/nuhadnkhan34" target="blank"
+  <a href="https://fb.com/nuhadnkhan2.0" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
