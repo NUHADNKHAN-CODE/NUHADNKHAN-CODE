@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 
-
 <img
   align="right"
   alt="Coder GIF"
