@@ -17,7 +17,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Microsoft**
+- 🔭 I’m currently working on **CPBD**
 
 - 🔭 I’m founder of **Cyber Protect BD**
 
